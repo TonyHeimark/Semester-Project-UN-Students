@@ -13,9 +13,8 @@ The assignment was to make a new website for the UN- students Oslo association w
 4.	Develop CSS for laptop/desktop devices and perform simultaneous testing.
 5.	Submit website, write report
 <br>
-<br>
+
 ### Requirements
-<br>
 1.	The site must be having a design that appeals to the target audience.
 2.	The site must have a professional and “clean” look that is going to be practical and easy to use, and have an intuitive look. 
 3.	The site must have at least 5-6 pages.
@@ -31,9 +30,10 @@ The assignment was to make a new website for the UN- students Oslo association w
 13.	Give the photographers photo credit when you decide to use any of their pictures.
 14.	Also try to incorporate some videos from the resources given.
 <br>
-<br>
+
 ## Conclusion
 I have learned a lot during this assignment. It was good practice to get content from the client, which was a little unorganized and messy, but I guess that’s how it is in the real world as well so that’s okay. 
+<br>
 <br>
 This was also a great way to practice planning, I made a Gantt chart and followed it to some extent. I might have spent too little time planning the design, which came back to bite me later. If I were to plan this assignment again, I would make a more detailed mockup of the website before starting coding. I would also try to stick to my Gantt chart as much as possible. The time taken to finish different tasks was a little bit inaccurate, but learning to estimate time comes with experience, so I’m not worried. All in all, I am happy with how everything turned out and I feel like I learned a lot.
 
